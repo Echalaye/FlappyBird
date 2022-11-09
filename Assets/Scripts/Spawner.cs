@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Spawner : MonoBehaviour
 {
-    private double queueTime = 1.1;
+    private double queueTime = 0.8;
     private float time = 0;
     public GameObject obstacle;
     public GameObject gameOver;
